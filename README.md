@@ -315,7 +315,7 @@ Contributions are welcome! Please follow these steps:
 
 <div align="center">
 
-**🌟 Star this repo if VoxFace made your classroom smarter!**
+**🌟 Star this repo if deepReview AI caught a bug before you did!**
 
 </div>
 
