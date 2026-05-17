@@ -315,10 +315,11 @@ Contributions are welcome! Please follow these steps:
 
 <div align="center">
 
-**🌟 Star this repo if deepReview AI caught a bug before you did!**
-
-[Report Bug](https://github.com/yourusername/deepreview-ai/issues) · [Request Feature](https://github.com/yourusername/deepreview-ai/issues)
-
-**deepReview AI** — *The code reviewer that never sleeps* 🌙
+**🌟 Star this repo if VoxFace made your classroom smarter!**
 
 </div>
+
+
+---
+
+**Made by Shashwat Raj** | [GitHub](https://github.com/Shashwat8732) | [LinkedIn](https://www.linkedin.com/in/shashwatraj1412/)
